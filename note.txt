@@ -1,0 +1,9 @@
+postman
+Pada tab Body, pilih opsi raw dan format JSON.
+
+{
+    "customerName": "John",
+    "roomNumber": "101",
+    "checkInDate": "2024-12-01",
+    "checkOutDate": "2024-12-05"
+}
